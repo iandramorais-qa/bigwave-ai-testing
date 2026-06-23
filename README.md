@@ -24,6 +24,9 @@ To secure product delivery and prevent user interface regressions, end-to-end (E
 * **QA & Automation:** Cypress | JavaScript (Node.js) | SelectorsHub | GitHub Workflows
 * **Management:** Jira | ClickUp | Scrum Sprints
 
+> 📁 **Repository Status:** Structure and test artifacts are actively being uploaded.
+> Final organisation expected by **August 2026** (concurrent with LumeStack certification completion).
+
 ## 📬 Contact & Portfolio
 * **LinkedIn:** [linkedin.com/in/iandra-morais](https://www.linkedin.com/in/iandra-morais/)
 * **Live Product View:** [bigwaveautomacaodigital.com](https://bigwaveautomacaodigital.com/)
